@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=620&lines=hey%2C+I'm+Thayer+%F0%9F%91%8B;I+build+systems+that+don't+flinch;I+teach+AI+agents+to+ship+code;make+it+work.+make+it+boring.+ship+it." alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=620&lines=hey%2C+I'm+Thayer+%F0%9F%91%8B;full+stack%2C+front+to+back;I+teach+AI+agents+to+ship+code;make+it+work.+make+it+boring.+ship+it." alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ```console
 $ whoami
-thayer — backend engineer, tooling tinkerer, agent wrangler
+thayer — full stack engineer, tooling tinkerer, agent wrangler
 
-$ cat ~/.config/principles
-1. boring > clever      # the best systems are the ones nobody has to think about
-2. prove it locally     # if I can't run it on my laptop, I don't trust it
-3. smallest complete change
-4. automate the second time, not the first
+$ cat ~/.config/what-i-care-about
+- the whole picture     # I like knowing how the button click becomes a DB row
+- leaving it better     # code, docs, or the next dev's onboarding — always a bit better than I found it
+- building for people   # the best tools I've made started as "this annoys my teammates"
+- staying curious       # still learning something new every week, and loving it
 
 $ ls ~/currently/
 orchestrating-parallel-ai-agents/  building-dev-tools-nobody-asked-for/  TODO-a-hobby/
