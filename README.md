@@ -29,7 +29,7 @@ orchestrating-parallel-ai-agents/  building-dev-tools-nobody-asked-for/  TODO-a-
 - **AI-native development.** Running fleets of Claude Code sessions in parallel, writing custom skills and building review loops that catch what humans skim past.
 - **Developer tooling.** Slack bots, CLIs, mock servers and local test rigs. If a workflow annoys me twice, it gets a script.
 - **Systems that stay up.** Idempotent jobs, replayable pipelines and alerts that only fire when something is actually wrong.
-- **TODO:** something offline — the mountain, the surf, the coffee, the guitar…
+- **TODO:** something offline — the mountain, the beach, the guitar…
 
 ### 🧰 Toolbox
 
@@ -61,14 +61,10 @@ orchestrating-parallel-ai-agents/  building-dev-tools-nobody-asked-for/  TODO-a-
 
 ### 📊 By the numbers
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tjrrich&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrrich&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tjrrich&hide_border=true&theme=tokyonight" alt="Contribution streak"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tjrrich/tjrrich/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/tjrrich/tjrrich/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
 
 ---
 
