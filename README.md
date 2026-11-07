@@ -1,14 +1,5 @@
 <p align="center">
-Hey, I'm Thayer 👋 // Software Engineer
-</p>
-<p align="center">
-Cape Town 🇿🇦 based. Terminal native.
-</p>
-<p align="center">
-Less friction, better code, deliberate design.
-</p>
-<p align="center">
-Stay curious. Keep shipping.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thayer+%F0%9F%91%8B+//+Software+Engineer;Cape+Town+%F0%9F%87%BF%F0%9F%87%A6+based.+Terminal+native.;Less+friction%2C+better+code%2C+deliberate+design.;Stay+curious.+Keep+shipping." alt="Typing intro"/>
 </p>
 
 <p align="center">
