@@ -1,0 +1,58 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 750 115' width='100%' height='115'>
+  <style>
+    @font-face {
+      font-family: 'JetBrains Mono';
+      font-style: normal;
+      font-weight: 500;
+      src: local('JetBrains Mono'), local('Fira Code'), local('Cascadia Code'), local('Consolas'), monospace;
+    }
+    .window { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8px; }
+    .header { fill: #161b22; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; text-anchor: middle; }
+    .prompt-arrow { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace; font-size: 17px; fill: #22c55e; font-weight: 600; }
+    .prompt-tilde { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace; font-size: 17px; fill: #38bdf8; font-weight: 600; }
+    .term-text { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Monaco, Consolas, monospace; font-size: 17px; fill: #00FF66; font-weight: 500; }
+  </style>
+
+  <!-- Window frame -->
+  <rect class='window' x='1' y='1' width='748' height='113' rx='8'/>
+  <path class='header' d='M 1,9 A 8,8 0 0,1 9,1 L 741,1 A 8,8 0 0,1 749,9 L 749,34 L 1,34 Z'/>
+  <line x1='1' y1='34' x2='749' y2='34' stroke='#30363d' stroke-width='1'/>
+
+  <!-- Window controls -->
+  <circle cx='22' cy='17.5' r='5.5' fill='#ff5f56'/>
+  <circle cx='40' cy='17.5' r='5.5' fill='#ffbd2e'/>
+  <circle cx='58' cy='17.5' r='5.5' fill='#27c93f'/>
+  <text class='title' x='375' y='22'>thayer@terminal:~</text>
+
+  <!-- Shell Prompt -->
+  <text x='24' y='76'>
+    <tspan class='prompt-arrow'>➜ </tspan>
+    <tspan class='prompt-tilde'>~ </tspan>
+  </text>
+
+  <!-- Animated Typing Lines -->
+  <path id='p0' d='m 82,76 h 0'>
+    <animate id='d0' attributeName='d' begin='0s;d3.end' dur='3800ms' fill='remove'
+      values='m 82,76 h 0 ; m 82,76 h 645 ; m 82,76 h 645 ; m 82,76 h 0' keyTimes='0;0.63157894736842;0.84210526315789;1' />
+  </path>
+  <text class='term-text'><textPath xlink:href='#p0'>Hey, I'm Thayer 👋 // Software Engineer</textPath></text>
+
+  <path id='p1' d='m 82,76 h 0'>
+    <animate id='d1' attributeName='d' begin='d0.end' dur='3800ms' fill='remove'
+      values='m 82,76 h 0 ; m 82,76 h 645 ; m 82,76 h 645 ; m 82,76 h 0' keyTimes='0;0.63157894736842;0.84210526315789;1' />
+  </path>
+  <text class='term-text'><textPath xlink:href='#p1'>Cape Town 🇿🇦 based. Terminal native.</textPath></text>
+
+  <path id='p2' d='m 82,76 h 0'>
+    <animate id='d2' attributeName='d' begin='d1.end' dur='3800ms' fill='remove'
+      values='m 82,76 h 0 ; m 82,76 h 645 ; m 82,76 h 645 ; m 82,76 h 0' keyTimes='0;0.63157894736842;0.84210526315789;1' />
+  </path>
+  <text class='term-text'><textPath xlink:href='#p2'>Less friction, better code, deliberate design.</textPath></text>
+
+  <path id='p3' d='m 82,76 h 0'>
+    <animate id='d3' attributeName='d' begin='d2.end' dur='3800ms' fill='remove'
+      values='m 82,76 h 0 ; m 82,76 h 645 ; m 82,76 h 645 ; m 82,76 h 0' keyTimes='0;0.63157894736842;0.84210526315789;1' />
+  </path>
+  <text class='term-text'><textPath xlink:href='#p3'>Stay curious. Keep shipping.</textPath></text>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thayer+%F0%9F%91%8B+//+Software+Engineer;Cape+Town+%F0%9F%87%BF%F0%9F%87%A6+based.+Terminal+native.;Less+friction%2C+better+code%2C+deliberate+design.;Stay+curious.+Keep+shipping." alt="Typing intro"/>
+  <img src="https://raw.githubusercontent.com/tjrrich/tjrrich/main/terminal.svg" alt="Terminal typing intro"/>
 </p>
 
 <p align="center">
