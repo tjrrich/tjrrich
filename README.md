@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=620&lines=hey%2C+I'm+Thayer+%F0%9F%91%8B;full+stack%2C+front+to+back;I+teach+AI+agents+to+ship+code;make+it+work.+make+it+boring.+ship+it." alt="Typing intro"/>
+Hey, I'm Thayer 👋 // Software Engineer<br/>
+Cape Town 🇿🇦 based. Terminal native.<br/>
+Less friction, better code, deliberate design.<br/>
+Stay curious. Keep shipping.
 </p>
 
 <p align="center">
