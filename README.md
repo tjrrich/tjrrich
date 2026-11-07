@@ -1,13 +1,19 @@
 <p align="center">
-Hey, I'm Thayer 👋 // Software Engineer<br/>
-Cape Town 🇿🇦 based. Terminal native.<br/>
-Less friction, better code, deliberate design.<br/>
+Hey, I'm Thayer 👋 // Software Engineer
+</p>
+<p align="center">
+Cape Town 🇿🇦 based. Terminal native.
+</p>
+<p align="center">
+Less friction, better code, deliberate design.
+</p>
+<p align="center">
 Stay curious. Keep shipping.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Cape%20Town-0B1F3A?style=for-the-badge" alt="Cape Town"/>
-  <a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/thayer-rich"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=tjrrich&style=for-the-badge&color=D97757&label=visitors" alt="Visitors"/>
 </p>
 
